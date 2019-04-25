@@ -10,7 +10,7 @@ I have no clue. We had several attempts at compiling. We're not even sure if thi
 If anyone's interested in helping us compile this source code to DOS/WIN9x or even Modern Windows, you can fork the code from this GitHub repository and make whatever changes you want with it.
 
 ## What are these zip files with cuss words containing more source code about?
-I don't know, the best speculation we have that it's full of versions that Addis, well, fucked up.
+I don't know, the best speculation we have that it's either full of versions that Addis, well, fucked up, or development versions.
 
 ## Copyright
 NESticle is © Bloodlust Software
